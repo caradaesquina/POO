@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1680724399 source:e:\lucas - pessoal\eco\3º periodo\programação orientada a objetos\lab2\cretangulo_lucaslpmoura.cpp
+	<iostream>
+	<unistd.h>
+	<cmath>
+	"CRETANGULO_H_LUCASLPMOURA.h"
+
+1680724215 e:\lucas - pessoal\eco\3º periodo\programação orientada a objetos\lab2\cretangulo_h_lucaslpmoura.h
+
+1680724836 source:e:\lucas - pessoal\eco\3º periodo\programação orientada a objetos\lab2\lab2_main_lucaslpmoura.cpp
+	<iostream>
+	"CRETANGULO_H_LUCASLPMOURA.h"
+
+1680723798 source:e:\lucas - pessoal\eco\3º periodo\programação orientada a objetos\lab2\lab2\main.cpp
+
+1680732511 source:e:\lucas - pessoal\eco\3º periodo\programação orientada a objetos\lab2\lab2\cpoligonregular.c
+
+1680734072 source:e:\lucas - pessoal\eco\3º periodo\programação orientada a objetos\lab2\lab2\cpoligonregular.cpp
+	<cmath>
+	"CPOLIGONREGULAR_H.h"
+	<string>
+
+1680734179 e:\lucas - pessoal\eco\3º periodo\programação orientada a objetos\lab2\lab2\cpoligonregular_h.h
+

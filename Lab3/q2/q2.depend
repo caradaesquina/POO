@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620844518 source:d:\2021\ecop13\lab3\codigo\q2\bigint.cpp
+	<iostream>
+	<string>
+	"bigint.h"
+
+1620823128 d:\2021\ecop13\lab3\codigo\q2\bigint.h
+
+1620823190 source:d:\2021\ecop13\lab3\codigo\q2\main.cpp
+	<iostream>
+	"bigint.h"
+

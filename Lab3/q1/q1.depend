@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1620847994 source:d:\2021\ecop13\lab3\codigo\q1\complexo.cpp
+	<iostream>
+	<cmath>
+	"complexo.h"
+
+1621020766 d:\2021\ecop13\lab3\codigo\q1\complexo.h
+
+1620734912 source:d:\2021\ecop13\lab3\codigo\q1\main.cpp
+	<iostream>
+	<cmath>
+	"complexo.h"
+
